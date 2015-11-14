@@ -5,6 +5,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Nikola stuff
+mis/cache/
+mis/output/
+mis/.doit.db*
+
 # Distribution / packaging
 .Python
 env/
